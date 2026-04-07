@@ -1,0 +1,22 @@
+# --- Python / Dagster ---
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+dagster_home/
+storage/
+*.log
+tech_paradox_report.png
+
+# --- Next.js / Node ---
+dashboard/node_modules/
+dashboard/.next/
+dashboard/out/
+dashboard/.env*
+dashboard/.DS_Store
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
